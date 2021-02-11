@@ -1,0 +1,7 @@
+:root {
+  --dark-magenta: hsl(300, 43%, 22%);
+  --soft-magenta: hsl(333, 80%, 67%);
+}
+body {
+  font-family: Spartan, sans-serif;
+}
